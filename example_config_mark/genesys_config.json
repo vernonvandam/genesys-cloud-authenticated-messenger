@@ -1,0 +1,8 @@
+{
+  "domain": "mypurecloud.com.au",
+  "environment": "prod-apse2",
+  "deploymentId": "8278cd3b-0437-4e2d-bdea-aa3fbf7b5be2",
+  "authenticatedChat": true,
+  "debug": false
+}
+

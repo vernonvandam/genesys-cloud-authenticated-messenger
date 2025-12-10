@@ -1,0 +1,22 @@
+{
+  "name": "genesys-cloud-authenticated-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genesys-chat-with-auth.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^7.2.6"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^2.10.0"
+  }
+}
